@@ -11,6 +11,9 @@ On the other hand, Tableau brings everything together in a visual environment th
 
 
 TabPy Server Running for Tableau Connections
+
+TabPy (the Tableau Python Server) is an Analytics Extension implementation which expands Tableau's capabilities by allowing users to execute Python scripts and saved functions via Tableau's table calculations. Hence, TabPy is what is required to support predictive modeling (ie: supervised learning - Linear Regression or unsupervised learning such as clustering) in Python sci-kit learn packages.
+
 ![image](https://user-images.githubusercontent.com/32416129/126685433-7d688362-10b4-4d1b-a205-3c9ac2cc3a7a.png)
 ![image](https://user-images.githubusercontent.com/32416129/126685662-6fd0d8f7-fb9b-4fee-a959-53c65d359c2a.png)
 
