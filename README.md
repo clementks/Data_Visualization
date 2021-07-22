@@ -25,3 +25,6 @@ TabClient Connection String in Python Script to connect to TabPy Server
 https://help.tableau.com/current/prep/en-us/prep_scripts._R.htm
 
 ![image](https://user-images.githubusercontent.com/32416129/126689916-73806381-cf7e-48ee-bdab-e4889d9c1a0c.png)
+
+![image](https://user-images.githubusercontent.com/32416129/126691647-9594aa00-266c-4872-996e-00e39bb8a2df.png)
+
