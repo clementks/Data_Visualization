@@ -21,6 +21,7 @@ TabPy (the Tableau Python Server) is an Analytics Extension implementation which
 TabClient Connection String in Python Script to connect to TabPy Server
 
 ![image](https://user-images.githubusercontent.com/32416129/126690494-a9f400e3-740c-487e-adbe-bf2d6b3a628b.png)
+
 https://help.tableau.com/current/prep/en-us/prep_scripts._R.htm
 
 ![image](https://user-images.githubusercontent.com/32416129/126689916-73806381-cf7e-48ee-bdab-e4889d9c1a0c.png)
