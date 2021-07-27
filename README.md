@@ -24,11 +24,13 @@ TabClient Connection String in Python Script to connect to TabPy Server
 
 https://help.tableau.com/current/prep/en-us/prep_scripts_TabPy.htm
 
- --> **Python script using ARIMA forecasting to display in Tableau visualization**
+
 
 ![image](https://user-images.githubusercontent.com/32416129/126689916-73806381-cf7e-48ee-bdab-e4889d9c1a0c.png)
 
 ![image](https://user-images.githubusercontent.com/32416129/126691647-9594aa00-266c-4872-996e-00e39bb8a2df.png)
+
+ --> **Python script using ARIMA forecasting to display in Tableau visualization**
 
 ![image](https://user-images.githubusercontent.com/32416129/126905772-77754b7c-79a5-4044-9169-dac31e26a0c9.png)
 
