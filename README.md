@@ -26,7 +26,6 @@ https://help.tableau.com/current/prep/en-us/prep_scripts_TabPy.htm
 
 
 
-![image](https://user-images.githubusercontent.com/32416129/126689916-73806381-cf7e-48ee-bdab-e4889d9c1a0c.png)
 
 
 
