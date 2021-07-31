@@ -29,8 +29,11 @@ https://help.tableau.com/current/prep/en-us/prep_scripts_TabPy.htm
 
 
 
- --> **Python script using ARIMA forecasting to display in Tableau visualization**
+ # Python script using ARIMA forecasting to display in Tableau visualization
 
 ![image](https://user-images.githubusercontent.com/32416129/126905772-77754b7c-79a5-4044-9169-dac31e26a0c9.png)
 
 
+# Hypothesis Testing (A/B Testing)
+
+![image](https://user-images.githubusercontent.com/32416129/127748116-cfe52d29-69fc-430d-b74a-f16b1dc72636.png)
