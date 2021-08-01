@@ -40,4 +40,5 @@ https://help.tableau.com/current/prep/en-us/prep_scripts_TabPy.htm
 
 # Correlation between Sales and Discount 
 
+![image](https://user-images.githubusercontent.com/32416129/127762133-2514361a-2acb-4e52-8d09-3329fff565df.png)
 
